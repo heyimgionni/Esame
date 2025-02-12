@@ -1,0 +1,27 @@
+[
+        {
+            "username": "user123",
+            "ip_address": "192.168.0.100",
+            "mac_address": "AA:BB:CC:DD:EE:FF"
+        },
+        {
+            "username": "anotheruser",
+            "ip_address": "192.168.0.101",
+            "mac_address": "AA:BB:CC:11:22:33"
+        },
+        {
+            "username": "guest42",
+            "ip_address": "10.0.0.50",
+            "mac_address": "11:22:33:44:55:66"
+        },
+        {
+            "username": "admin",
+            "ip_address": "192.168.1.1",
+            "mac_address": "AA:BB:CC:AA:BB:CC"
+        },
+        {
+            "username": "jsmith",
+            "ip_address": "172.16.0.20",
+            "mac_address": "99:88:77:66:55:44"
+        }
+]
